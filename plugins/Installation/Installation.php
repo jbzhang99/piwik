@@ -62,6 +62,10 @@ class Installation extends \Piwik\Plugin
     {
         $general = Config::getInstance()->General;
 
+        if (!$general['enable_installer']) {
+            throw new \Exception('Piwik is not set up yet');
+        }
+
         if (empty($general['installation_in_progress'])) {
             return;
         }
