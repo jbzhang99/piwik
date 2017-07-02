@@ -25,9 +25,11 @@
 				
 				
 				<pageId>95</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -138,11 +140,13 @@
 				
 				
 				<pageId>46</pageId>
+				<bandwidth />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -162,6 +166,7 @@
 				
 				
 				<pageId>47</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<siteSearchKeyword>Bring on the party</siteSearchKeyword>
@@ -174,6 +179,7 @@
 						<customVariablePageValue4>CAT</customVariablePageValue4>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -194,11 +200,13 @@
 				
 				
 				<pageId>48</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>outlink</type>
@@ -208,11 +216,13 @@
 				
 				
 				<pageId>49</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>event</type>
@@ -223,11 +233,13 @@
 				<pageId>50</pageId>
 				<eventCategory>Cat8</eventCategory>
 				<eventAction>Action8</eventAction>
+				<bandwidth />
 				<eventName>Name8</eventName>
 				<eventValue>353.678</eventValue>
 				<interactionPosition />
 				
 				<icon>plugins/Morpheus/images/event.png</icon>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -357,6 +369,7 @@
 				
 				
 				<pageId>45</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -370,6 +383,7 @@
 						<customVariablePageValue5>Cvar5 PAGE value is 8</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -488,11 +502,13 @@
 				
 				
 				<pageId>41</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -524,11 +540,13 @@
 				
 				
 				<pageId>42</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>outlink</type>
@@ -538,11 +556,13 @@
 				
 				
 				<pageId>43</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>event</type>
@@ -553,11 +573,13 @@
 				<pageId>44</pageId>
 				<eventCategory>Cat7</eventCategory>
 				<eventAction>Action7</eventAction>
+				<bandwidth />
 				<eventName>Name7</eventName>
 				<eventValue>352.678</eventValue>
 				<interactionPosition />
 				
 				<icon>plugins/Morpheus/images/event.png</icon>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -687,6 +709,7 @@
 				
 				
 				<pageId>40</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -700,6 +723,7 @@
 						<customVariablePageValue5>Cvar5 PAGE value is 7</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -818,11 +842,13 @@
 				
 				
 				<pageId>35</pageId>
+				<bandwidth />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -842,6 +868,7 @@
 				
 				
 				<pageId>36</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<siteSearchKeyword>Bring on the party</siteSearchKeyword>
@@ -854,6 +881,7 @@
 						<customVariablePageValue4>CAT</customVariablePageValue4>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -874,11 +902,13 @@
 				
 				
 				<pageId>37</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>outlink</type>
@@ -888,11 +918,13 @@
 				
 				
 				<pageId>38</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>event</type>
@@ -903,11 +935,13 @@
 				<pageId>39</pageId>
 				<eventCategory>Cat6</eventCategory>
 				<eventAction>Action6</eventAction>
+				<bandwidth />
 				<eventName>Name6</eventName>
 				<eventValue>351.678</eventValue>
 				<interactionPosition />
 				
 				<icon>plugins/Morpheus/images/event.png</icon>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -1037,6 +1071,7 @@
 				
 				
 				<pageId>34</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -1050,6 +1085,7 @@
 						<customVariablePageValue5>Cvar5 PAGE value is 6</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -1168,11 +1204,13 @@
 				
 				
 				<pageId>30</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -1204,11 +1242,13 @@
 				
 				
 				<pageId>31</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>outlink</type>
@@ -1218,11 +1258,13 @@
 				
 				
 				<pageId>32</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>event</type>
@@ -1233,11 +1275,13 @@
 				<pageId>33</pageId>
 				<eventCategory>Cat5</eventCategory>
 				<eventAction>Action5</eventAction>
+				<bandwidth />
 				<eventName>Name5</eventName>
 				<eventValue>350.678</eventValue>
 				<interactionPosition />
 				
 				<icon>plugins/Morpheus/images/event.png</icon>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -1367,6 +1411,7 @@
 				
 				
 				<pageId>29</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -1380,6 +1425,7 @@
 						<customVariablePageValue5>Cvar5 PAGE value is 5</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -1498,11 +1544,13 @@
 				
 				
 				<pageId>24</pageId>
+				<bandwidth />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -1522,6 +1570,7 @@
 				
 				
 				<pageId>25</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<siteSearchKeyword>Bring on the party</siteSearchKeyword>
@@ -1534,6 +1583,7 @@
 						<customVariablePageValue4>CAT</customVariablePageValue4>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -1554,11 +1604,13 @@
 				
 				
 				<pageId>26</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>outlink</type>
@@ -1568,11 +1620,13 @@
 				
 				
 				<pageId>27</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>event</type>
@@ -1583,11 +1637,13 @@
 				<pageId>28</pageId>
 				<eventCategory>Cat4</eventCategory>
 				<eventAction>Action4</eventAction>
+				<bandwidth />
 				<eventName>Name4</eventName>
 				<eventValue>349.678</eventValue>
 				<interactionPosition />
 				
 				<icon>plugins/Morpheus/images/event.png</icon>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -1717,6 +1773,7 @@
 				
 				
 				<pageId>23</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -1730,6 +1787,7 @@
 						<customVariablePageValue5>Cvar5 PAGE value is 4</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -1848,11 +1906,13 @@
 				
 				
 				<pageId>19</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -1884,11 +1944,13 @@
 				
 				
 				<pageId>20</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>outlink</type>
@@ -1898,11 +1960,13 @@
 				
 				
 				<pageId>21</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>event</type>
@@ -1913,11 +1977,13 @@
 				<pageId>22</pageId>
 				<eventCategory>Cat3</eventCategory>
 				<eventAction>Action3</eventAction>
+				<bandwidth />
 				<eventName>Name3</eventName>
 				<eventValue>348.678</eventValue>
 				<interactionPosition />
 				
 				<icon>plugins/Morpheus/images/event.png</icon>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -2036,11 +2102,13 @@
 				
 				
 				<pageId>80</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -2072,11 +2140,13 @@
 				
 				
 				<pageId>81</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>outlink</type>
@@ -2086,11 +2156,13 @@
 				
 				
 				<pageId>82</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>event</type>
@@ -2101,11 +2173,13 @@
 				<pageId>83</pageId>
 				<eventCategory>Cat3</eventCategory>
 				<eventAction>Action3</eventAction>
+				<bandwidth />
 				<eventName>Name3</eventName>
 				<eventValue>348.678</eventValue>
 				<interactionPosition />
 				
 				<icon>plugins/Morpheus/images/event.png</icon>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -2227,6 +2301,7 @@
 				
 				
 				<pageId>18</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -2240,6 +2315,7 @@
 						<customVariablePageValue5>Cvar5 PAGE value is 3</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -2369,6 +2445,7 @@
 				
 				
 				<pageId>79</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -2382,6 +2459,7 @@
 						<customVariablePageValue5>Cvar5 PAGE value is 3</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -2500,11 +2578,13 @@
 				
 				
 				<pageId>13</pageId>
+				<bandwidth />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -2524,6 +2604,7 @@
 				
 				
 				<pageId>14</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<siteSearchKeyword>Bring on the party</siteSearchKeyword>
@@ -2536,6 +2617,7 @@
 						<customVariablePageValue4>CAT</customVariablePageValue4>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -2556,11 +2638,13 @@
 				
 				
 				<pageId>15</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>outlink</type>
@@ -2570,11 +2654,13 @@
 				
 				
 				<pageId>16</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>event</type>
@@ -2585,11 +2671,13 @@
 				<pageId>17</pageId>
 				<eventCategory>Cat2</eventCategory>
 				<eventAction>Action2</eventAction>
+				<bandwidth />
 				<eventName>Name2</eventName>
 				<eventValue>347.678</eventValue>
 				<interactionPosition />
 				
 				<icon>plugins/Morpheus/images/event.png</icon>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -2708,11 +2796,13 @@
 				
 				
 				<pageId>74</pageId>
+				<bandwidth />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -2732,6 +2822,7 @@
 				
 				
 				<pageId>75</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<siteSearchKeyword>Bring on the party</siteSearchKeyword>
@@ -2744,6 +2835,7 @@
 						<customVariablePageValue4>CAT</customVariablePageValue4>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -2764,11 +2856,13 @@
 				
 				
 				<pageId>76</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>outlink</type>
@@ -2778,11 +2872,13 @@
 				
 				
 				<pageId>77</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>event</type>
@@ -2793,11 +2889,13 @@
 				<pageId>78</pageId>
 				<eventCategory>Cat2</eventCategory>
 				<eventAction>Action2</eventAction>
+				<bandwidth />
 				<eventName>Name2</eventName>
 				<eventValue>347.678</eventValue>
 				<interactionPosition />
 				
 				<icon>plugins/Morpheus/images/event.png</icon>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -2919,6 +3017,7 @@
 				
 				
 				<pageId>12</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -2932,6 +3031,7 @@
 						<customVariablePageValue5>Cvar5 PAGE value is 2</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -3061,6 +3161,7 @@
 				
 				
 				<pageId>73</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -3074,6 +3175,7 @@
 						<customVariablePageValue5>Cvar5 PAGE value is 2</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -3192,11 +3294,13 @@
 				
 				
 				<pageId>8</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -3228,11 +3332,13 @@
 				
 				
 				<pageId>9</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>outlink</type>
@@ -3242,11 +3348,13 @@
 				
 				
 				<pageId>10</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>event</type>
@@ -3257,11 +3365,13 @@
 				<pageId>11</pageId>
 				<eventCategory>Cat1</eventCategory>
 				<eventAction>Action1</eventAction>
+				<bandwidth />
 				<eventName>Name1</eventName>
 				<eventValue>346.678</eventValue>
 				<interactionPosition />
 				
 				<icon>plugins/Morpheus/images/event.png</icon>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -3380,11 +3490,13 @@
 				
 				
 				<pageId>58</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -3416,11 +3528,13 @@
 				
 				
 				<pageId>59</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>outlink</type>
@@ -3430,11 +3544,13 @@
 				
 				
 				<pageId>60</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>event</type>
@@ -3445,11 +3561,13 @@
 				<pageId>61</pageId>
 				<eventCategory>Cat1</eventCategory>
 				<eventAction>Action1</eventAction>
+				<bandwidth />
 				<eventName>Name1</eventName>
 				<eventValue>346.678</eventValue>
 				<interactionPosition />
 				
 				<icon>plugins/Morpheus/images/event.png</icon>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -3568,11 +3686,13 @@
 				
 				
 				<pageId>69</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -3604,11 +3724,13 @@
 				
 				
 				<pageId>70</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>outlink</type>
@@ -3618,11 +3740,13 @@
 				
 				
 				<pageId>71</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>event</type>
@@ -3633,11 +3757,13 @@
 				<pageId>72</pageId>
 				<eventCategory>Cat1</eventCategory>
 				<eventAction>Action1</eventAction>
+				<bandwidth />
 				<eventName>Name1</eventName>
 				<eventValue>346.678</eventValue>
 				<interactionPosition />
 				
 				<icon>plugins/Morpheus/images/event.png</icon>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -3748,11 +3874,13 @@
 				
 				
 				<pageId>91</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -3784,11 +3912,13 @@
 				
 				
 				<pageId>92</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>outlink</type>
@@ -3798,11 +3928,13 @@
 				
 				
 				<pageId>93</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>event</type>
@@ -3813,11 +3945,13 @@
 				<pageId>94</pageId>
 				<eventCategory>Cat1</eventCategory>
 				<eventAction>Action1</eventAction>
+				<bandwidth />
 				<eventName>Name1</eventName>
 				<eventValue>346.678</eventValue>
 				<interactionPosition />
 				
 				<icon>plugins/Morpheus/images/event.png</icon>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -3947,6 +4081,7 @@
 				
 				
 				<pageId>7</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -3960,6 +4095,7 @@
 						<customVariablePageValue5>Cvar5 PAGE value is 1</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -4089,6 +4225,7 @@
 				
 				
 				<pageId>57</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -4102,6 +4239,7 @@
 						<customVariablePageValue5>Cvar5 PAGE value is 1</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -4231,6 +4369,7 @@
 				
 				
 				<pageId>68</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -4244,6 +4383,7 @@
 						<customVariablePageValue5>Cvar5 PAGE value is 1</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -4373,6 +4513,7 @@
 				
 				
 				<pageId>90</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -4386,6 +4527,7 @@
 						<customVariablePageValue5>Cvar5 PAGE value is 1</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -4504,11 +4646,13 @@
 				
 				
 				<pageId>2</pageId>
+				<bandwidth />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -4528,6 +4672,7 @@
 				
 				
 				<pageId>3</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<siteSearchKeyword>Bring on the party</siteSearchKeyword>
@@ -4540,6 +4685,7 @@
 						<customVariablePageValue4>CAT</customVariablePageValue4>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -4560,11 +4706,13 @@
 				
 				
 				<pageId>4</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>outlink</type>
@@ -4574,11 +4722,13 @@
 				
 				
 				<pageId>5</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>event</type>
@@ -4589,11 +4739,13 @@
 				<pageId>6</pageId>
 				<eventCategory>Cat0</eventCategory>
 				<eventAction>Action0</eventAction>
+				<bandwidth />
 				<eventName>Name0</eventName>
 				<eventValue>345.678</eventValue>
 				<interactionPosition />
 				
 				<icon>plugins/Morpheus/images/event.png</icon>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -4712,11 +4864,13 @@
 				
 				
 				<pageId>52</pageId>
+				<bandwidth />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -4736,6 +4890,7 @@
 				
 				
 				<pageId>53</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<siteSearchKeyword>Bring on the party</siteSearchKeyword>
@@ -4748,6 +4903,7 @@
 						<customVariablePageValue4>CAT</customVariablePageValue4>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -4768,11 +4924,13 @@
 				
 				
 				<pageId>54</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>outlink</type>
@@ -4782,11 +4940,13 @@
 				
 				
 				<pageId>55</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>event</type>
@@ -4797,11 +4957,13 @@
 				<pageId>56</pageId>
 				<eventCategory>Cat0</eventCategory>
 				<eventAction>Action0</eventAction>
+				<bandwidth />
 				<eventName>Name0</eventName>
 				<eventValue>345.678</eventValue>
 				<interactionPosition />
 				
 				<icon>plugins/Morpheus/images/event.png</icon>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -4920,11 +5082,13 @@
 				
 				
 				<pageId>63</pageId>
+				<bandwidth />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -4944,6 +5108,7 @@
 				
 				
 				<pageId>64</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<siteSearchKeyword>Bring on the party</siteSearchKeyword>
@@ -4956,6 +5121,7 @@
 						<customVariablePageValue4>CAT</customVariablePageValue4>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -4976,11 +5142,13 @@
 				
 				
 				<pageId>65</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>outlink</type>
@@ -4990,11 +5158,13 @@
 				
 				
 				<pageId>66</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>event</type>
@@ -5005,11 +5175,13 @@
 				<pageId>67</pageId>
 				<eventCategory>Cat0</eventCategory>
 				<eventAction>Action0</eventAction>
+				<bandwidth />
 				<eventName>Name0</eventName>
 				<eventValue>345.678</eventValue>
 				<interactionPosition />
 				
 				<icon>plugins/Morpheus/images/event.png</icon>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -5120,11 +5292,13 @@
 				
 				
 				<pageId>85</pageId>
+				<bandwidth />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -5144,6 +5318,7 @@
 				
 				
 				<pageId>86</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<siteSearchKeyword>Bring on the party</siteSearchKeyword>
@@ -5156,6 +5331,7 @@
 						<customVariablePageValue4>CAT</customVariablePageValue4>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -5176,11 +5352,13 @@
 				
 				
 				<pageId>87</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>outlink</type>
@@ -5190,11 +5368,13 @@
 				
 				
 				<pageId>88</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>event</type>
@@ -5205,11 +5385,13 @@
 				<pageId>89</pageId>
 				<eventCategory>Cat0</eventCategory>
 				<eventAction>Action0</eventAction>
+				<bandwidth />
 				<eventName>Name0</eventName>
 				<eventValue>345.678</eventValue>
 				<interactionPosition />
 				
 				<icon>plugins/Morpheus/images/event.png</icon>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -5339,6 +5521,7 @@
 				
 				
 				<pageId>1</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -5352,6 +5535,7 @@
 						<customVariablePageValue5>Cvar5 PAGE value is 0</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -5481,6 +5665,7 @@
 				
 				
 				<pageId>51</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -5494,6 +5679,7 @@
 						<customVariablePageValue5>Cvar5 PAGE value is 0</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -5623,6 +5809,7 @@
 				
 				
 				<pageId>62</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -5636,6 +5823,7 @@
 						<customVariablePageValue5>Cvar5 PAGE value is 0</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -5765,6 +5953,7 @@
 				
 				
 				<pageId>84</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -5778,6 +5967,7 @@
 						<customVariablePageValue5>Cvar5 PAGE value is 0</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>

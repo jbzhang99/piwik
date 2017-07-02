@@ -14,9 +14,11 @@
 				
 				
 				<pageId>2</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -127,11 +129,13 @@
 				
 				
 				<pageId>1</pageId>
+				<bandwidth />
 				<timeSpent>1084</timeSpent>
 				<timeSpentPretty>18 min 4s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>

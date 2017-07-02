@@ -25,6 +25,7 @@
 				
 				
 				<pageId>9</pageId>
+				<bandwidth>3574</bandwidth>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -34,6 +35,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>3.5 K</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -140,6 +142,7 @@
 				
 				
 				<pageId>8</pageId>
+				<bandwidth>3574</bandwidth>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -149,6 +152,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>3.5 K</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -255,6 +259,7 @@
 				
 				
 				<pageId>7</pageId>
+				<bandwidth>3574</bandwidth>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -264,6 +269,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>3.5 K</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -370,6 +376,7 @@
 				
 				
 				<pageId>6</pageId>
+				<bandwidth>3574</bandwidth>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -379,6 +386,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>3.5 K</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -485,6 +493,7 @@
 				
 				
 				<pageId>5</pageId>
+				<bandwidth>3574</bandwidth>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -494,6 +503,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>3.5 K</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -600,6 +610,7 @@
 				
 				
 				<pageId>4</pageId>
+				<bandwidth>3574</bandwidth>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -609,6 +620,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>3.5 K</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -715,6 +727,7 @@
 				
 				
 				<pageId>3</pageId>
+				<bandwidth>3574</bandwidth>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -724,6 +737,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>3.5 K</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -830,6 +844,7 @@
 				
 				
 				<pageId>2</pageId>
+				<bandwidth>3574</bandwidth>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -839,6 +854,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>3.5 K</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -945,6 +961,7 @@
 				
 				
 				<pageId>1</pageId>
+				<bandwidth>3574</bandwidth>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -954,6 +971,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>3.5 K</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>

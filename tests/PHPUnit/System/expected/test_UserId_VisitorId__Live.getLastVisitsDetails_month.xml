@@ -12,9 +12,11 @@
 				
 				<serverTimePretty>Mar 6, 2010 11:22:33</serverTimePretty>
 				<pageId>1</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				<timestamp>1267874553</timestamp>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<lastActionDateTime>2010-03-06 11:22:33</lastActionDateTime>
@@ -33,11 +35,13 @@
 				
 				<serverTimePretty>Mar 6, 2010 11:25:33</serverTimePretty>
 				<pageId>2</pageId>
+				<bandwidth />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				<timestamp>1267874733</timestamp>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>action</type>
@@ -47,9 +51,11 @@
 				
 				<serverTimePretty>Mar 6, 2010 11:28:33</serverTimePretty>
 				<pageId>3</pageId>
+				<bandwidth />
 				<interactionPosition>2</interactionPosition>
 				<icon />
 				<timestamp>1267874913</timestamp>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<lastActionDateTime>2010-03-06 11:28:33</lastActionDateTime>
@@ -68,11 +74,13 @@
 				
 				<serverTimePretty>Mar 6, 2010 13:16:33</serverTimePretty>
 				<pageId>4</pageId>
+				<bandwidth />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				<timestamp>1267881393</timestamp>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>action</type>
@@ -82,11 +90,13 @@
 				
 				<serverTimePretty>Mar 6, 2010 13:22:33</serverTimePretty>
 				<pageId>5</pageId>
+				<bandwidth />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>2</interactionPosition>
 				<icon />
 				<timestamp>1267881753</timestamp>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>action</type>
@@ -96,9 +106,11 @@
 				
 				<serverTimePretty>Mar 6, 2010 13:28:33</serverTimePretty>
 				<pageId>6</pageId>
+				<bandwidth />
 				<interactionPosition>3</interactionPosition>
 				<icon />
 				<timestamp>1267882113</timestamp>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<lastActionDateTime>2010-03-06 13:28:33</lastActionDateTime>
@@ -117,9 +129,11 @@
 				
 				<serverTimePretty>Mar 6, 2010 13:34:33</serverTimePretty>
 				<pageId>7</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				<timestamp>1267882473</timestamp>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<lastActionDateTime>2010-03-06 13:34:33</lastActionDateTime>
@@ -138,9 +152,11 @@
 				
 				<serverTimePretty>Mar 6, 2010 16:28:33</serverTimePretty>
 				<pageId>10</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				<timestamp>1267892913</timestamp>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<lastActionDateTime>2010-03-06 16:28:33</lastActionDateTime>
@@ -159,11 +175,13 @@
 				
 				<serverTimePretty>Mar 6, 2010 16:22:33</serverTimePretty>
 				<pageId>8</pageId>
+				<bandwidth />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				<timestamp>1267892553</timestamp>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>action</type>
@@ -173,11 +191,13 @@
 				
 				<serverTimePretty>Mar 6, 2010 16:28:33</serverTimePretty>
 				<pageId>9</pageId>
+				<bandwidth />
 				<timeSpent>721</timeSpent>
 				<timeSpentPretty>12 min 1s</timeSpentPretty>
 				<interactionPosition>2</interactionPosition>
 				<icon />
 				<timestamp>1267892913</timestamp>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -224,9 +244,11 @@
 				
 				<serverTimePretty>Mar 14, 2010 11:22:33</serverTimePretty>
 				<pageId>11</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				<timestamp>1268565753</timestamp>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<lastActionDateTime>2010-03-14 11:22:33</lastActionDateTime>
@@ -245,9 +267,11 @@
 				
 				<serverTimePretty>Mar 14, 2010 11:46:33</serverTimePretty>
 				<pageId>12</pageId>
+				<bandwidth />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				<timestamp>1268567193</timestamp>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<lastActionDateTime>2010-03-14 11:46:33</lastActionDateTime>

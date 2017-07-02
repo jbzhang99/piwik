@@ -37,9 +37,11 @@
 					
 					
 					<pageId>5</pageId>
+					<bandwidth />
 					<interactionPosition />
 					<icon>plugins/Morpheus/images/link.png</icon>
 					
+					<bandwidth_pretty>0 M</bandwidth_pretty>
 				</row>
 			</actionDetails>
 			<goalConversions>0</goalConversions>
@@ -169,9 +171,11 @@
 					
 					
 					<pageId>4</pageId>
+					<bandwidth />
 					<interactionPosition>1</interactionPosition>
 					<icon />
 					
+					<bandwidth_pretty>0 M</bandwidth_pretty>
 				</row>
 			</actionDetails>
 			<goalConversions>1</goalConversions>

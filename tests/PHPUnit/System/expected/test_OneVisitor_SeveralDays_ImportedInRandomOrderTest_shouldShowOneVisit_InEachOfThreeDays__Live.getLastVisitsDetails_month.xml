@@ -13,6 +13,7 @@
 				
 				<serverTimePretty>Apr 7, 2013 10:00:00</serverTimePretty>
 				<pageId>1</pageId>
+				<bandwidth>9625</bandwidth>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				<timestamp>1365328800</timestamp>
@@ -22,6 +23,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>9.4 K</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -118,6 +120,7 @@
 				
 				<serverTimePretty>Apr 6, 2013 11:00:00</serverTimePretty>
 				<pageId>2</pageId>
+				<bandwidth>9625</bandwidth>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				<timestamp>1365246000</timestamp>
@@ -127,6 +130,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>9.4 K</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -223,6 +227,7 @@
 				
 				<serverTimePretty>Apr 5, 2013 12:00:00</serverTimePretty>
 				<pageId>3</pageId>
+				<bandwidth>9625</bandwidth>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				<timestamp>1365163200</timestamp>
@@ -232,6 +237,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>9.4 K</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>

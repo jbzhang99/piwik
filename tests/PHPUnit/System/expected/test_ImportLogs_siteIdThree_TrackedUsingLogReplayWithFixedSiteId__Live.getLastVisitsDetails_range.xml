@@ -14,6 +14,7 @@
 				
 				
 				<pageId>69</pageId>
+				<bandwidth>43</bandwidth>
 				<generationTimeMilliseconds>292</generationTimeMilliseconds>
 				<generationTime>0.29s</generationTime>
 				<interactionPosition>1</interactionPosition>
@@ -25,6 +26,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -143,6 +145,7 @@
 				
 				
 				<pageId>60</pageId>
+				<bandwidth>43</bandwidth>
 				<timeSpent>79</timeSpent>
 				<timeSpentPretty>1 min 19s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
@@ -154,6 +157,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 			<row>
 				<type>action</type>
@@ -163,6 +167,7 @@
 				
 				
 				<pageId>68</pageId>
+				<bandwidth>43</bandwidth>
 				<interactionPosition>2</interactionPosition>
 				<icon />
 				
@@ -172,6 +177,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -273,6 +279,7 @@
 				
 				
 				<pageId>67</pageId>
+				<bandwidth>43</bandwidth>
 				<generationTimeMilliseconds>413</generationTimeMilliseconds>
 				<generationTime>0.41s</generationTime>
 				<interactionPosition>1</interactionPosition>
@@ -284,6 +291,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -414,6 +422,7 @@
 				
 				
 				<pageId>64</pageId>
+				<bandwidth>43</bandwidth>
 				<timeSpent>32</timeSpent>
 				<timeSpentPretty>32s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
@@ -425,6 +434,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 			<row>
 				<type>action</type>
@@ -434,6 +444,7 @@
 				
 				
 				<pageId>66</pageId>
+				<bandwidth>43</bandwidth>
 				<interactionPosition>2</interactionPosition>
 				<icon />
 				
@@ -443,6 +454,7 @@
 						<customVariablePageValue1>501</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -565,6 +577,7 @@
 				
 				
 				<pageId>65</pageId>
+				<bandwidth>43</bandwidth>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
@@ -574,6 +587,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -696,6 +710,7 @@
 				
 				
 				<pageId>63</pageId>
+				<bandwidth>43</bandwidth>
 				<generationTimeMilliseconds>391</generationTimeMilliseconds>
 				<generationTime>0.39s</generationTime>
 				<interactionPosition>1</interactionPosition>
@@ -707,6 +722,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -837,6 +853,7 @@
 				
 				
 				<pageId>62</pageId>
+				<bandwidth>43</bandwidth>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -846,6 +863,7 @@
 						<customVariablePageValue1>404</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -964,6 +982,7 @@
 				
 				
 				<pageId>61</pageId>
+				<bandwidth>43</bandwidth>
 				<generationTimeMilliseconds>119</generationTimeMilliseconds>
 				<generationTime>0.12s</generationTime>
 				<interactionPosition>1</interactionPosition>
@@ -975,6 +994,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -1085,6 +1105,7 @@
 				
 				
 				<pageId>59</pageId>
+				<bandwidth>43</bandwidth>
 				<generationTimeMilliseconds>145</generationTimeMilliseconds>
 				<generationTime>0.15s</generationTime>
 				<interactionPosition>1</interactionPosition>
@@ -1096,6 +1117,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -1226,6 +1248,7 @@
 				
 				
 				<pageId>55</pageId>
+				<bandwidth>43</bandwidth>
 				<timeSpent>2</timeSpent>
 				<timeSpentPretty>2s</timeSpentPretty>
 				<generationTimeMilliseconds>182</generationTimeMilliseconds>
@@ -1239,6 +1262,7 @@
 						<customVariablePageValue1>403</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 			<row>
 				<type>action</type>
@@ -1248,6 +1272,7 @@
 				
 				
 				<pageId>57</pageId>
+				<bandwidth>43</bandwidth>
 				<timeSpent>7</timeSpent>
 				<timeSpentPretty>7s</timeSpentPretty>
 				<generationTimeMilliseconds>113</generationTimeMilliseconds>
@@ -1261,6 +1286,7 @@
 						<customVariablePageValue1>500</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 			<row>
 				<type>download</type>
@@ -1270,6 +1296,7 @@
 				
 				
 				<pageId>58</pageId>
+				<bandwidth>43</bandwidth>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
@@ -1279,6 +1306,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -1393,6 +1421,7 @@
 				
 				
 				<pageId>56</pageId>
+				<bandwidth>43</bandwidth>
 				<generationTimeMilliseconds>134</generationTimeMilliseconds>
 				<generationTime>0.13s</generationTime>
 				<interactionPosition>1</interactionPosition>
@@ -1404,6 +1433,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -1526,6 +1556,7 @@
 				
 				
 				<pageId>54</pageId>
+				<bandwidth>43</bandwidth>
 				<generationTimeMilliseconds>58</generationTimeMilliseconds>
 				<generationTime>0.06s</generationTime>
 				<interactionPosition>1</interactionPosition>
@@ -1537,6 +1568,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -1659,6 +1691,7 @@
 				
 				
 				<pageId>50</pageId>
+				<bandwidth>43</bandwidth>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -1676,6 +1709,7 @@
 						<customVariablePageValue5>Electronics &amp; Cameras</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -1790,6 +1824,7 @@
 				
 				
 				<pageId>51</pageId>
+				<bandwidth>43</bandwidth>
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -1799,6 +1834,7 @@
 						<customVariablePageValue1>200</customVariablePageValue1>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -1929,6 +1965,7 @@
 				
 				
 				<pageId>33</pageId>
+				<bandwidth>43</bandwidth>
 				<timeSpent>0</timeSpent>
 				<timeSpentPretty>0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
@@ -1940,6 +1977,7 @@
 						<customVariablePageValue5>Electronics &amp; Cameras</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 			<row>
 				<type>action</type>
@@ -1949,6 +1987,7 @@
 				
 				
 				<pageId>52</pageId>
+				<bandwidth>43</bandwidth>
 				<timeSpent>0</timeSpent>
 				<timeSpentPretty>0s</timeSpentPretty>
 				<interactionPosition>2</interactionPosition>
@@ -1964,6 +2003,7 @@
 						<customVariablePageValue4>PRODUCT name</customVariablePageValue4>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 			<row>
 				<type>action</type>
@@ -1973,6 +2013,7 @@
 				
 				
 				<pageId>53</pageId>
+				<bandwidth>43</bandwidth>
 				<interactionPosition>3</interactionPosition>
 				<icon />
 				
@@ -1982,6 +2023,7 @@
 						<customVariablePageValue5>Electronics &amp; Cameras</customVariablePageValue5>
 					</row>
 				</customVariables>
+				<bandwidth_pretty>43 B</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
